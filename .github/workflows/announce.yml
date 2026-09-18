@@ -2,9 +2,9 @@ name: "Announcements cron"
 
 on:
   repository_dispatch:
-    types: do_announce
+    types: [do announce] 
   schedule:
-    - cron: '0/15 * * * *' # Every 15 minutes daily
+    - cron: '*/15 * * * *' # Every 15 minutes daily
 
 jobs:
   build:

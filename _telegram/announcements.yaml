@@ -30,9 +30,17 @@
 
 18/09/2026 18:40:00:
     # HIGH — final call before the bus leaves
-    - "🚌 Heading to tonight's social event? Meet at 18:45 at your hotel — we'll walk to the bus together."
+    - "🚌 Heading to tonight's social event? Meet our volunteers at 18:45 at your hotel — we'll walk to the bus together."
 
-18/09/2026 21:30:00:
+18/09/2026 21:31:00:
     # HIGH — people need this to get back safely
     - "🚌 Return bus reminder: buses leave tonight at 22:00, 23:00 and 24:00. Enjoy the evening! 🎉"
+
+18/09/2026 22:50:00:
+    # HIGH — people need this to get back safely
+    - "🚌 Return bus reminder: Next bus leaves at 23:00."
+
+18/09/2026 23:50:00:
+    # HIGH — people need this to get back safely
+    - "🚌 Return bus reminder: The last bus leaves at 24:00."
 

@@ -31,8 +31,8 @@ for dt, arr in parsed_announcements.items():
     ann_time = DT.strptime(dt, '%d/%m/%Y %H:%M:%S')
     print(ann_time)
     diff = (ann_time - NOW)
-    print ('Diff DAYS:', diff_sec.days )
-    print ('Diff SEC :', diff_sec.seconds )
+    print ('Diff DAYS:', diff.days )
+    print ('Diff SEC :', diff.seconds )
     if diff.days != 0:
         print('Skip: ', ann_time, '> DAY ', diff)
         continue

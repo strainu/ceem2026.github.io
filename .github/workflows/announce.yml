@@ -2,7 +2,7 @@ name: "Announcements cron"
 
 on:
   repository_dispatch:
-    types: [do_doannounce] 
+    types: [do_announce] 
   schedule:
     - cron: '*/15 * * * *' 
 

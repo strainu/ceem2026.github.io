@@ -1,147 +1,38 @@
-18/05/2023 21:45:00:
-    - "Hi all!
-I'm wmhack2023_announcements_bot a bot created by @DimitriosRingas and the WMHack2023 volunteers from the Ionian University.
-I'll be taking care of scheduled announcements, eg session times, lunch/dinner, socials, etc.
-If I seem to mulfunction, pls contact  @DimitriosRingas.
-See you tomorrow morning at 📍 Technopolis, Gkazi, Athens"
 
-19/05/2023 09:15:00:
-    - "Wikimedia Hackathon 2023 Registration still open at Technopolis, Machineworks building\n
-Check venue here: https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2023/Venue"
-19/05/2023 09:30:00:
-    - "Wikimedia Hackathon 2023 Opening (all participants to attend this session)\n
-📍 Machineworks building
- 📝 Etherpad: https://bit.ly/45bO3wV"
-19/05/2023 11:00:00:
-   - "An introduction to the Wikibase REST API\n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3MDU4LA"
-19/05/2023 11:30:00:
-   - "Overview of technical areas & projects in Wikimedia's technical ecosystem\n
-📍 Warehouse Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3pTNlV4"
-   - "Get setup with MediaWiki and build a skin\n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3MHYwcu"
-19/05/2023 12:30:00:
-   - "Lunch provided at 📍 Technopolis"
-19/05/2023 14:00:00:
-   - "Cool new things in MediaWiki code\n
-📍 MachineWorks Workshop Room \n
- 📝 Etherpad:  https://bit.ly/434Ra7W"
-19/05/2023 14:30:00:
-   - "State of GitLab CI and migration party \n
-📍 Warehouse Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3IrW7jr
- An introduction to Codex: the design system for Wikimedia \n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3onRfoB"
-19/05/2023 15:00:00:
-   - "Using Pixel tool for visual regression \n
-📍 Warehouse Workshop Room\n
- 📝 Etherpad:  https://bit.ly/41KRZBW
-\n\n
- WikiGPT - Natural Language search results based on Wikipedia knowledge and ChatGPT \n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3IqhaTk"
-19/05/2023 16:00:00:
-   - "Documentation for Wikibase Cloud \n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3pTuedL"
-19/05/2023 17:00:00:
-   - "Nap or solo time for some, social time for others \n
-📍 Cozy corner is on MachineWorks building "
-19/05/2023 18:00:00:
-   - "Dinner provided at 📍 Technopolis"
-19/05/2023 19:00:00:
-   - "Social event at 📍 Technopolis \n
-Accessible-to-All Hip Hop Party"
+18/09/2026 08:15:00:
+    # HIGH — drives attendance to the opening plenary
+    - "Good morning & welcome! 👋\nOpening plenary starts at 09:00 — please head to event venue  early so that you can register in time.\n📱 Don't forget to have your QR code handy. Your participant guide (with all the practical info) will be on the QR code on your nametag."
 
-20/05/2023 10:00:00:
-   - "Schemas for medical entitites \n
-📍 Warehouse Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3Whhcme
- \n\n
- IP Masking \n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/41St7Zd"
-20/05/2023 10:30:00:
-   - "LLMs, ChatGPT, machine learning tools, etc
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3OqcLUq"
-20/05/2023 11:30:00:
-   - "What i've learned from being a Wikimedia tool dev for nine years \n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/43bbogt"
-20/05/2023 12:30:00:
-   - "Lunch provided at 📍 Technopolis"
-20/05/2023 13:45:00:
-   - "Group Photo (📍 Location tbd)"
-20/05/2023 14:00:00:
-   - "Community configuration - letting communities take control by JSON configuration \n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/43bbwfX"
-   - " AutoWikiBrowser Workshop \n
-📍 Warehouse Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3oiRr8J"
-20/05/2023 15:00:00:
-   - "How to fix automatic citacions in Wikipedia with Web2Cit \n
-📍 Warehouse Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3ojAcnJ
-\n\n
- What do tool maintainers want from Toolhub? \n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/43eYP3T"
-20/05/2023 16:00:00:
-   - "Using automated systems to recommend reviewers in the MediaWiki project \n
-📍 Warehouse Workshop Room\n
- 📝 Etherpad:  https://bit.ly/45h3B2I
-\n\n
- Past, Present and Future of Wikimedia Cloud Services (Toolforge and friends) \n
-📍 MachineWorks Workshop Room\n
- 📝 Etherpad:  https://bit.ly/3Wkqk9H"
-20/05/2023 17:00:00:
-   - "Nap or solo time for some, social time for others \n
-📍 Cozy corner is on MachineWorks building"
-20/05/2023 18:00:00:
-   - "Dinner provided at 📍 Technopolis"
-20/05/2023 19:30:00:
-   - "Social event at 📍 Technopolis \n
-Vassilikos 'The Grand Duet' with Giorgios Triantafillou"
+18/09/2026 10:45:00:
+    # HIGH — safety & consent info
+    - "A few useful reminders for the day:\n🟢 Trust & Safety team = green lanyards — reach out to them if something affects your safety or wellbeing.\n🚪 Take a moment to notice the emergency exits around the venue.\n➕ First aid: a Red Cross volunteer is at the registration desk.\n🔵 Dark blue lanyard = no photos, please — respect people's photo preferences.\n🙋 Volunteers can help with rooms, directions and any practical questions.\n🤫."
+    
 
-21/05/2023 09:30:00:
-   - "Toolforge Build Service beta preview \n
-📍 Innovathens Level 2\n
- 📝 Etherpad:  https://bit.ly/3Wkju4f
-\n\n
- Improve your technical writing \n
-📍 Innovathens Level 1\n
- 📝 Etherpad:  https://bit.ly/3onRtfr"
-21/05/2023 10:30:00:
-   - "Best practises & ideas for implementing them for high-impact tools & their maintainers \n
-📍 Innovathens Level 1\n
- 📝 Etherpad:  https://bit.ly/3MGhiAQ"
-21/05/2023 11:00:00:
-   - "Using Patch demo to test or demonstrate patches outside of your local dev environment (or without one) \n
-📍 Innovathens Level 2\n
- 📝 Etherpad:  https://etherpad.wikimedia.org/p/wmh2023-Patch-demo"
-21/05/2023 11:30:00:
-   - "Cool new things in PHP
-📍 Innovathens Level 2\n
- 📝 Etherpad:  https://bit.ly/3pRpOEa
-\n\n
- Self-hosting ML models on Cloud Services \n
-📍 Innovathens Level 1\n
- 📝 Etherpad:  https://bit.ly/3BGyrEo"
-21/05/2023 12:00:00:
-   - "Toolhub, Toolhunt, and the quest to improve tool discoverability \n
-📍 Innovathens Level 2\n
- 📝 Etherpad:  https://bit.ly/3Oqd01M"
-21/05/2023 12:30:00:
-   - "Lunch provided at 📍 Technopolis"
-21/05/2023 14:30:00:
-   - "Hackathon Project Showcase & Closing (all participants to attend this session)
-📍 Machineworks building\n
- 📝 Etherpad: https://bit.ly/3WkD93P"
-21/05/2023 17:00:00:
-   - "Free dinner for all attendees at 📍 Brown Acropol rooftop  "
+18/09/2026 12:15:00:
+    # HIGH — one-time group activity, easy to miss
+    - "📸 Group photo reminder! We'll meet outside before lunch for the conference group photo — please follow the organisers/volunteers when this session ends."
+
+18/09/2026 12:30:00:
+    # MEDIUM — dietary info is useful but low miss-risk
+    - "🍽️ Lunch is served @ Piramida. Vegan and vegetarian options are part of the buffet; Halal dishes are indicated on the table."
+
+18/09/2026 14:00:00:
+    # HIGH — has a real financial deadline attached
+    - "💸 Reimbursement reminder: forms can be completed today and tomorrow until lunch, at the registration desk — for participants who did not fly in."
+
+18/09/2026 17:15:00:
+    # HIGH — drives attendance to closing plenary
+    - "⏰ Please head back to the main hall for the 17:30 closing plenary — we'll reflect on the day together and share tonight's social event details. 🎉"
+
+18/09/2026 17:45:00:
+    # HIGH — transport logistics, avoid people getting stranded
+    - "🎉 Tonight's social event: 20:00–24:00! A great chance to get to know fellow participants, and to celebrate the CEE community and 25 years of Wikipedia.\n🚌 Buses leave at 19:00 from Beyfin Hotel (Piața Avram Iancu 3).\n🔁 Return buses: 22:00 / 23:00 / 24:00."
+
+18/09/2026 18:40:00:
+    # HIGH — final call before the bus leaves
+    - "🚌 Heading to tonight's social event? Meet at 18:45 at your hotel — we'll walk to the bus together."
+
+18/09/2026 21:30:00:
+    # HIGH — people need this to get back safely
+    - "🚌 Return bus reminder: buses leave tonight at 22:00, 23:00 and 24:00. Enjoy the evening! 🎉"
+

@@ -4,7 +4,7 @@ on:
   repository_dispatch:
     types: [do announce] 
   schedule:
-    - cron: '*/15 * * * *' # Every 15 minutes daily
+    - cron: '*/5 * * * *' # Every 15 minutes daily
 
 jobs:
   build:

@@ -1,46 +1,19 @@
+19/09/2026 08:20:00:
+    # HIGH — drives attendance to morning plenary
+    - "Good morning! 👋 Morning plenary starts at 08:45 — important information for today. ."
 
-18/09/2026 10:18:00:
-    # HIGH — drives attendance to the opening plenary
-    - "Good morning & welcome! 👋\nOpening plenary starts at 09:00 — please head to event venue  early so that you can register in time.\n📱 Don't forget to have your QR code handy. Your participant guide (with all the practical info) will be on the QR code on your nametag."
+19/09/2026 10:15:
+    # MEDIUM — same engagement activity as Friday, Saturday edition
+    - "📸 Saturday portrait time! The photo-video team is offering free portraits during morning coffee  break — swing by if you'd like one. Photos will be shared on Wikimedia Commons."
 
-18/09/2026 10:45:00:
-    # HIGH — safety & consent info
-    - "A few useful reminders for the day:\n🟢 Trust & Safety team = green lanyards — reach out to them if something affects your safety or wellbeing.\n🚪 Take a moment to notice the emergency exits around the venue.\n➕ First aid: a Red Cross volunteer is at the registration desk.\n🔵 Dark blue lanyard = no photos, please — respect people's photo preferences.\n🙋 Volunteers can help with rooms, directions and any practical questions.\n🤫."
-    
-
-18/09/2026 12:15:00:
+19/09/2026 12:15:00:
     # HIGH — one-time group activity, easy to miss
-    - "📸 Group photo change! Because of rainy reasons the group photo is postponed for tomorrow, same time (12:30). Today, after the session, please come directly to lunch at the Pyramid."
+    - "📸 Group photo reminder! We'll meet outside before lunch for the conference group photo — please follow the organisers/volunteers when this session ends."
 
-18/09/2026 12:30:00:
-    # MEDIUM — dietary info is useful but low miss-risk
-    - "🍽️ Lunch is served @ Piramida. Vegan and vegetarian options are part of the buffet; Halal dishes are indicated on the table."
+19/09/2026 17:15:00:
+    # HIGH — drives attendance; Mentimeter needs people present with their phones
+    - "⏰ Please head back for the 17:30 closing announcements — we'll reflect on today's key learnings together (grab your phone, we'll be using Mentimeter!) and share tonight's plans."
 
-18/09/2026 14:00:00:
-    # HIGH — has a real financial deadline attached
-    - "💸 Reimbursement reminder: forms can be completed today and tomorrow until lunch, at the registration desk — for participants who did not fly in."
-
-18/09/2026 17:15:00:
-    # HIGH — drives attendance to closing plenary
-    - "⏰ Please head back to the main hall for the 17:30 closing plenary — we'll reflect on the day together and share tonight's social event details. 🎉"
-
-18/09/2026 17:45:00:
-    # HIGH — transport logistics, avoid people getting stranded
-    - "🎉 Tonight's social event: 20:00–24:00! A great chance to get to know fellow participants, and to celebrate the CEE community and 25 years of Wikipedia.\n🚌 Buses leave at 19:00 from Beyfin Hotel (Piața Avram Iancu 3).\n🔁 Return buses: 22:00 / 23:00 / 24:00."
-
-18/09/2026 18:45:00:
-    # HIGH — final call before the bus leaves
-    - "🚌 Heading to tonight's social event? Meet our volunteers at 18:45 at your hotel — we'll walk to the bus together."
-
-18/09/2026 21:31:00:
-    # HIGH — people need this to get back safely
-    - "🚌 Return bus reminder: buses leave tonight at 22:00, 23:00 and 24:00. Enjoy the evening! 🎉"
-
-18/09/2026 22:50:00:
-    # HIGH — people need this to get back safely
-    - "🚌 Return bus reminder: Next bus leaves at 23:00."
-
-18/09/2026 23:50:00:
-    # HIGH — people need this to get back safely
-    - "🚌 Return bus reminder: The last bus leaves at 24:00."
-
+19/09/2026 17:50:00:
+    # MEDIUM — evening logistics
+    - "🚌 Tonight: city tour and dinner — We will meet outside after the plennary and go on Cluj Center Tour with passionate guides. Dinner will follow at 8 at the Pyramid." 
